@@ -11,6 +11,7 @@
     <modules>
         <module>movie_news_web</module>
         <module>movie_news_config</module>
+        <module>movie_common_code</module>
     </modules>
     <!-- 全局属性配置 -->
     <properties>
