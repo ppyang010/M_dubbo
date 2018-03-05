@@ -1,3 +1,30 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/.mvn/wrapper/
+/.mvn/wrapper/maven-wrapper.jar
+
 # Created by .ignore support plugin (hsz.mobi)
 
 .gradle
@@ -38,3 +65,4 @@ proguard/
 # Others
 .idea/
 *.iml
+/movie_news_web/movie-news-web.iml
