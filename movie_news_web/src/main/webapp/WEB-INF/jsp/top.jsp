@@ -171,7 +171,7 @@
 							preloader: false,
 							midClick: true,
 							removalDelay: 300,
-							mainClass: 'my-mfp-zoom-in'
+							mainClass: 'myjdbctemplate-mfp-zoom-in'
 						});
 																						
 						});
